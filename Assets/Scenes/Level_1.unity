@@ -464,7 +464,7 @@ MonoBehaviour:
   - {fileID: 770372497}
   - {fileID: 617572853}
   - {fileID: 1166324748}
-  smoothing: 1
+  smoothing: 1.5
 --- !u!4 &872528749
 Transform:
   m_ObjectHideFlags: 0
